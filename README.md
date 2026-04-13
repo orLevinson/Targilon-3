@@ -1,2 +1,2 @@
 # Targilon-3
-targilon 3 for advanced programming course
+https://github.com/orLevinson/Targilon-3.git
